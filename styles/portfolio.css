@@ -32,10 +32,10 @@
 nav {
   display: flex;
   justify-content: space-between;
-  margin: 50px 200px;
+ padding: 50px 200px;
 }
 .nav-title {
-  font-weight: 700;
+  font-weight: 500;
   font-size: 85px;
 }
 nav ul {
