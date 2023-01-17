@@ -76,8 +76,9 @@ section {
 }
 /* about  section styles */
 .about {
+  margin-top: 130px;
   background: #ebe6e3;
-  border-radious: 10px;
+  border-radius: 10px;
   padding: 130px 150px;
   text-align: center;
 }
@@ -108,6 +109,7 @@ section {
 
 /* what i do styles */
 .what-i-do {
+  margin-top: 130px;
 }
 .skill {
   background: #ffffff;
@@ -137,7 +139,6 @@ section {
   justify-content: space-between;
 }
 .resume-item{
-  margin-top: 30px;
   margin-bottom: 30px;
 }
 .resume .title {
